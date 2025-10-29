@@ -58,7 +58,7 @@ select * from emptystack_projects where code ILIKE '%taxi%';
 (1 row)
 
 
---- porject shutdown --
+--- Project shutdown --
 Password: notagaincarter
 Welcome, your-boss-99.
 Project ID: DczE0v2b
